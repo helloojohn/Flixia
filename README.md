@@ -13,7 +13,7 @@ This is the landing page solution to the technical test on Learnable internship 
   - [Resources](#resources)
 
 
-##Overview
+## Overview
 
 ### The test
 
@@ -43,4 +43,4 @@ Design a landing page for Flixia that:
   - Grid
 
 ### Resources
-
+- [MDN](https://developer.mozilla.org/en-US/)
