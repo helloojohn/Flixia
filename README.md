@@ -30,7 +30,7 @@ Design a landing page for Flixia that:
 
 ## Links
 
-- [Live Site URL](https://celadon-dasik-28b829.netlify.app)
+- [Live Site URL](https://flixia-stream.netlify.app)
 
 
 ## My process
